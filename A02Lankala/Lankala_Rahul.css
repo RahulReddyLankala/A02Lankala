@@ -1,0 +1,165 @@
+body {
+	border: 3px double black;
+}
+#over img {
+	margin-top: 60px;
+	margin-right: 10px;
+	display: block;
+}
+
+p.background { 
+    font-style: italic;
+	text-align: left;
+	color: black;
+	font-weight: bolder;
+}
+
+a[target] {
+    color: #680BED;
+}
+a:active {
+    background-color: yellow;
+}
+:root {   
+	background: #ffffff url("bb.jpg");
+	background-position: 1px -340px;
+	background-size: 1500px 1000px;
+}
+h1.aboutMe {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	text-align: center;
+	text-decoration: underline;
+	color: #34B334;
+}
+h1{
+    color: green;
+}
+#backgroundHeader {
+	color: 	#E1070B;
+}
+#plansHeader {
+	color: #E80B0E;
+}
+#interestsHeader {
+	color: 	#8B0000;
+}
+footer.contact {
+	text-align: left;
+	
+	font-weight: bolder;
+}
+#section {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+}
+
+p.background { 
+    font-style: italic;
+	text-align: left;
+}
+p.background { 
+    font-style: italic;
+	text-align: left;
+}
+.img-circle {
+    border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	position: relative;
+	border: 3px solid #000000;
+	
+    top: 10px;
+    position: relative;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+input[type=text], select, textarea {
+    width: 40%; 
+	height: 40%;
+    padding: 5px;   
+    border: 1px solid #ccc; 
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 25px; /* Add a top margin */
+    margin-bottom: 5px; /* Bottom margin */
+    /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	align-content: center;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+	align-content: center;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+body {
+    background-image: url("images2.jpg");
+    background-size:1500px 1000px;
+    background-repeat: no-repeat;
+}
+h2{
+    color:green;
+
+}
